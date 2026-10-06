@@ -29,7 +29,13 @@
 # print(f"High CPU servers {count}")
 
 #Task 5
+servers = ["app1", "app2", "app3", "app4"]
+status = ["UP", "UP", "DOWN", "UP"]
 
+# for i in range(len(servers)):
+#     if status[i] == "DOWN":
+#         print(f"first Down server is {servers[i]}")
+#         break
 # 
 
 ## Task 6
