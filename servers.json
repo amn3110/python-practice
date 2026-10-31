@@ -1,0 +1,4 @@
+[{"name": "aap1", "status": "UP", "cpu": 45},
+  {"name": "aap2", "status": "DOWN", "cpu": 90},
+  {"name": "aap3", "status": "UP", "cpu": 65}
+]

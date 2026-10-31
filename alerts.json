@@ -1,0 +1,10 @@
+[
+    {
+        "name": "app1",
+        "issue": "Down"
+    },
+    {
+        "name": "app2",
+        "issue": "UP"
+    }
+]
